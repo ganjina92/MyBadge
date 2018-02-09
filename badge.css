@@ -1,0 +1,52 @@
+
+
+body{
+    background-color: rgb(73,73,73);
+}
+p {
+    text-align: center;
+}
+.flex-container {
+     display: block;
+     background-color: red;
+     flex-direction: row;
+     margin: 25% 35% ;
+     width: 420px;
+     border-radius: 23px;
+     height: 275px;
+     -webkit-transform:rotate(-7deg);
+}
+
+.flex-item1 {
+    text-align: center;
+
+}
+
+h2, p  {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Verdana;
+    color: white;
+    height: 25%;
+}
+
+h2 {
+    font-size: 79px;
+
+}
+
+p {
+    margin: 0;
+    font-size: 38px;
+
+}
+
+#name {
+    text-align: center;
+    color: black;
+    font-size: 80px;
+    background-color: white;
+    height: 2.9cm;
+}
+
